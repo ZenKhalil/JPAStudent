@@ -1,0 +1,12 @@
+GET http://localhost:8080/students/Viggo
+Accept: application/json
+
+###
+GET http://localhost:8080/addstudent
+Accept: application/json
+
+###
+GET http://localhost:8080/students
+Accept: application/json
+
+###

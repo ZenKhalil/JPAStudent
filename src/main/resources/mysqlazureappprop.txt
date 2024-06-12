@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:mysql://tirsdagmysql.mysql.database.azure.com/studentzv2
+spring.datasource.username=azureuser
+spring.datasource.password=Phi31lip
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+logging.level.root=INFO
